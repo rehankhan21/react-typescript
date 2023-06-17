@@ -1,7 +1,9 @@
 // 1) Import ReactDOM library
 import ReactDOM from "react-dom/client";
 //import GuestList from "./state/guest-list";
-import UserSearch from "./state/user-search";
+//import UserSearch from "./state/user-search";
+//import EventComponent from "./events/event-component";
+import UserSearch from "./refs/user-search";
 
 // 2) Get a reference to the div with ID root
 const el = document.getElementById("root");
